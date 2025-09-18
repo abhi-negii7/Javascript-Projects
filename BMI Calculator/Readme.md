@@ -7,8 +7,8 @@ It takes a user's height (in cm) and weight (in kg) as input and calculates BMI 
 ### 🖼️ Screenshots
 
 <p float="left">
-  <img src="BMI Calculator/ScreenShots/normalWeight.png" width="75%" />
-  <img src="BMI Calculator/ScreenShots/overweight.png" width="75%" />
+  <img src="ScreenShots/normalWeight.png" width="75%" />
+  <img src="ScreenShots/overweight.png" width="75%" />
 </p>
 
 ---
