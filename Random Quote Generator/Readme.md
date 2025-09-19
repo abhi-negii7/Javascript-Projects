@@ -13,7 +13,10 @@ A simple web app that fetches random quotes from a free API and allows you to co
 ---
 
 ## 🖼️ Demo Screenshot
-
+<p float="left">
+  <img src="ScreenShots/home.png" width="75%" />
+  <img src="ScreenShots/copy-quote.png" width="75%" />
+</p>
 
 ---
 
