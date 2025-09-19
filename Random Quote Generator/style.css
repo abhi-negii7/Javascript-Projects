@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: #c2e59c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #64b3f4,
+    #c2e59c
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #64b3f4,
+    #c2e59c
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  background-color: #d4f9ab;
+  width: 50%;
+  height: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 7px;
+}
+.quote-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-style: italic;
+  text-transform: capitalize;
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+#quote {
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 0 20px;
+}
+#generate-btn {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  font-weight: 500;
+  border: none;
+  border-radius: 5px;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+}
+#generate-btn:hover {
+  background-color: #555;
+}
+.quote{
+    font-style: italic;
+    color: #080708;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+.copyBtn{
+    cursor: pointer;
+}
