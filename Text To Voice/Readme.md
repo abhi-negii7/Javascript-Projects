@@ -17,7 +17,7 @@ A simple and interactive web application built using **HTML**, **CSS**, and **Ja
 ## 🖼️ Demo Screenshot
 <p float="left">
   <img src="ScreenShots/demo.png" width="75%" />
-  <img src="ScreenShots/emptyinput.png" width="75%" />
+  <img src="ScreenShots/emptyInput.png" width="75%" />
 </p>
 
 ---
